@@ -1,2 +1,2 @@
 # alx-higher_level_programming
-tasks
+alx-python_tasks
